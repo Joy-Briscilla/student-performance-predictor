@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+flask
+streamlit   # only needed for the older single-page app.py
